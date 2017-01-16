@@ -1,68 +1,67 @@
 Slack Forums:
-	[Grails Signup](https://grails.signup.team/)
-	[Grails](https://grails.slack.com)
-	[Groovy Signup](https://groovycommunity.com/)
-	[Groovy](https://groovy-community.slack.com/)
+	* [Grails Signup](https://grails.signup.team/)
+	* [Grails](https://grails.slack.com)
+	* [Groovy Signup](https://groovycommunity.com/)
+	* [Groovy](https://groovy-community.slack.com/)
 
 [SDK MAN](http://sdkman.io/) For installing all things Groovy.
 
 Various Groovy/Grails conferences:
-	[Spring One 2GX 2015](http://www.infoq.com/springone-2gx-2015/)
-	[Spring One 2GX 2014](http://www.infoq.com/springone-2gx-2014/)
-	[Spring One 2GX 2013](http://www.infoq.com/springone-2gx-2013/)
-	[GR8 Conf EU](https://www.youtube.com/channel/UCJXNOMywewNmau4hzAy4LjA)
-	[GR8 Conf US](https://www.youtube.com/channel/UC7wUp2KIa1hoMNn0r7JUVEg)
-	[Greach](https://www.youtube.com/channel/UCgW66PCJrada2o2_YcvFo-Q)
-	[Grails Conf India](https://www.youtube.com/playlist?list=PLy9XpRZ-oJHQNd5S-FrASOiMmW5YiJmXM)
-	I would keep an eye on To The new Channel as it might post vids from GR8 Conf IN.
-	[Transforming To Groovy by Venkat]( http://www.infoq.com/presentations/Transforming-to-Groovy)
+	* [Spring One 2GX 2015](http://www.infoq.com/springone-2gx-2015/)
+	* [Spring One 2GX 2014](http://www.infoq.com/springone-2gx-2014/)
+	* [Spring One 2GX 2013](http://www.infoq.com/springone-2gx-2013/)
+	* [GR8 Conf EU](https://www.youtube.com/channel/UCJXNOMywewNmau4hzAy4LjA)
+	* [GR8 Conf US](https://www.youtube.com/channel/UC7wUp2KIa1hoMNn0r7JUVEg)
+	* [Greach](https://www.youtube.com/channel/UCgW66PCJrada2o2_YcvFo-Q)
+	* [Grails Conf India](https://www.youtube.com/playlist?list=PLy9XpRZ-oJHQNd5S-FrASOiMmW5YiJmXM) I would keep an eye on To The new Channel as it might post vids from GR8 Conf IN.
+	* [Transforming To Groovy by Venkat]( http://www.infoq.com/presentations/Transforming-to-Groovy)
 
 Other Videos:
-	[S.E. GEEK Groovy/Grails Videos](https://www.youtube.com/channel/UCHRADKRXZkPB6QVee0Q3GSQ)
-	[Boston Groovy Grails & Sprin(B2GS) Meetup YouTube](https://www.youtube.com/channel/UC5M3WWSZ5LsIBc96G-6iNow)
-	[Groovy Podcast YouTube](https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ)
+	* [S.E. GEEK Groovy/Grails Videos](https://www.youtube.com/channel/UCHRADKRXZkPB6QVee0Q3GSQ)
+	* [Boston Groovy Grails & Sprin(B2GS) Meetup YouTube](https://www.youtube.com/channel/UC5M3WWSZ5LsIBc96G-6iNow)
+	* [Groovy Podcast YouTube](https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ)
 
 News/Blogs:
-	[Groovy Diary](http://grydeske.net/news/)
-	[Mr Haki Blog](http://mrhaki.blogspot.com/)
-	[Groovy Calamari](http://groovycalamari.com/)
-	[Groovy Podcast Page](https://groovypodcast.podbean.com/)
+	* [Groovy Diary](http://grydeske.net/news/)
+	* [Mr Haki Blog](http://mrhaki.blogspot.com/)
+	* [Groovy Calamari](http://groovycalamari.com/)
+	* [Groovy Podcast Page](https://groovypodcast.podbean.com/)
 
 Groovy:
-	[Main Site](http://groovy-lang.org)
-	[Docs](http://groovy-lang.org/documentation.html)
-	[Language Doc](http://groovy-lang.org/single-page-documentation.html)
-	[API](http://groovy-lang.org/api.html)
-	[GDK](http://groovy-lang.org/gdk.html) Groovied version of the JDK
-	[GPars](http://www.gpars.org/) Concurrency Library for Groovy
-	[Web Console](http://groovyconsole.appspot.com/scripts)
-	[Books](http://groovy-lang.org/learn.html)
+	* [Main Site](http://groovy-lang.org)
+	* [Docs](http://groovy-lang.org/documentation.html)
+	* [Language Doc](http://groovy-lang.org/single-page-documentation.html)
+	* [API](http://groovy-lang.org/api.html)
+	* [GDK](http://groovy-lang.org/gdk.html) Groovied version of the JDK
+	* [GPars](http://www.gpars.org/) Concurrency Library for Groovy
+	* [Web Console](http://groovyconsole.appspot.com/scripts)
+	* [Books](http://groovy-lang.org/learn.html)
 
 AST:
-	[AST Workshop](http://melix.github.io/ast-workshop/#_prerequisites)
-	[AbstractASTTransformUtil](http://docs.groovy-lang.org/latest/html/gapi/org/codehaus/groovy/transform/AbstractASTTransformUtil.html)
-	[GrailsASTUtils](http://docs.grails.org/2.4.4/api/org/codehaus/groovy/grails/compiler/injection/GrailsASTUtils.html)	
-	Grails Redis Plugin Memoization Annotation Transformation a Retrospective on Groovy AST(http://www.christianoestreich.com/2012/02/groovy-ast-transformations-part-1/)
-	[Groovy AST: Writing an annotation](http://www.sdidit.nl/2013/01/groovy-ast-writing-annotation.html)
+	* [AST Workshop](http://melix.github.io/ast-workshop/#_prerequisites)
+	* [AbstractASTTransformUtil](http://docs.groovy-lang.org/latest/html/gapi/org/codehaus/groovy/transform/AbstractASTTransformUtil.html)
+	* [GrailsASTUtils](http://docs.grails.org/2.4.4/api/org/codehaus/groovy/grails/compiler/injection/GrailsASTUtils.html)	
+	* [Grails Redis Plugin Memoization Annotation Transformation a Retrospective on Groovy AST](http://www.christianoestreich.com/2012/02/groovy-ast-transformations-part-1/)
+	* [Groovy AST: Writing an annotation](http://www.sdidit.nl/2013/01/groovy-ast-writing-annotation.html)
 
 GDSL:
-	[GDSL Awesomeness – Introduction to GDSL in IntelliJ Idea](http://www.tothenew.com/blog/gdsl-awesomeness-introduction-to-gdsl-in-intellij-idea/)
-	[GroovyDSL scripting framework](https://confluence.jetbrains.com/display/GRVY/Scripting+IDE+for+DSL+awareness)
-	[Can I use GDSL with Groovy AST transforms, that have closures as parameters?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/203366410-Can-I-use-GDSL-with-Groovy-AST-transforms-that-have-closures-as-parameters-)
+	* [GDSL Awesomeness – Introduction to GDSL in IntelliJ Idea](http://www.tothenew.com/blog/gdsl-awesomeness-introduction-to-gdsl-in-intellij-idea/)
+	* [GroovyDSL scripting framework](https://confluence.jetbrains.com/display/GRVY/Scripting+IDE+for+DSL+awareness)
+	* [Can I use GDSL with Groovy AST transforms, that have closures as parameters?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/203366410-Can-I-use-GDSL-with-Groovy-AST-transforms-that-have-closures-as-parameters-)
 
 Grails:
-	[Main Site](http://grails.org)
-	[Guids](http://guides.grails.org/#/index)
-	[Docs](http://docs.grails.org/latest/guide/single.html)
-	[Plugins](http://plugins.grails.org/)
-	[GitHub Issues](https://github.com/grails/grails-core/issues)
-	[Books](https://grails.org/learn.html)
+	* [Main Site](http://grails.org)
+	* [Guids](http://guides.grails.org/#/index)
+	* [Docs](http://docs.grails.org/latest/guide/single.html)
+	* [Plugins](http://plugins.grails.org/)
+	* [GitHub Issues](https://github.com/grails/grails-core/issues)
+	* [Books](https://grails.org/learn.html)
 
 Other Groovy Projects:
-	[Gradle](http://gradle.org/) Gradle is build automation framework
-	[GEB](http://www.gebish.org/) powerful browser functional testing framework
-	[RatPack](http://www.ratpack.io/) Ratpack is a simple, capable, toolkit for creating high performance web applications.
-	[Spock](http://spockframework.org/) Spock is a testing and specification framework
+	* [Gradle](http://gradle.org/) Gradle is build automation framework
+	* [GEB](http://www.gebish.org/) powerful browser functional testing framework
+	* [RatPack](http://www.ratpack.io/) Ratpack is a simple, capable, toolkit for creating high performance web applications.
+	* [Spock](http://spockframework.org/) Spock is a testing and specification framework
 
 
 
