@@ -22,7 +22,7 @@ Other Videos:
 * [S.E. GEEK Groovy/Grails Videos](https://www.youtube.com/channel/UCHRADKRXZkPB6QVee0Q3GSQ)
 
 News/Blogs:
-* [Groovy Diary](http://grydeske.net/news/)
+* [Grails Diary](http://grydeske.net/news/)
 * [Mr Haki Blog](http://mrhaki.blogspot.com/)
 * [Groovy Calamari](http://groovycalamari.com/)
 * [Groovy Podcast Page](https://groovypodcast.podbean.com/)
