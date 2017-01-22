@@ -17,20 +17,23 @@ Various Groovy/Grails conferences:
 * [Transforming To Groovy by Venkat]( http://www.infoq.com/presentations/Transforming-to-Groovy)
 
 Other Videos:
-* [S.E. GEEK Groovy/Grails Videos](https://www.youtube.com/channel/UCHRADKRXZkPB6QVee0Q3GSQ)
-* [Boston Groovy Grails & Sprin(B2GS) Meetup YouTube](https://www.youtube.com/channel/UC5M3WWSZ5LsIBc96G-6iNow)
 * [Groovy Podcast YouTube](https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ)
+* [Boston Groovy Grails & Sprin(B2GS) Meetup YouTube](https://www.youtube.com/channel/UC5M3WWSZ5LsIBc96G-6iNow)
+* [S.E. GEEK Groovy/Grails Videos](https://www.youtube.com/channel/UCHRADKRXZkPB6QVee0Q3GSQ)
 
 News/Blogs:
 * [Groovy Diary](http://grydeske.net/news/)
 * [Mr Haki Blog](http://mrhaki.blogspot.com/)
 * [Groovy Calamari](http://groovycalamari.com/)
 * [Groovy Podcast Page](https://groovypodcast.podbean.com/)
+* [Grails.IO (Graeme Rocher)](http://grails.io/)
+* [Grails Team Blog(OCI)](http://grailsblog.objectcomputing.com/)
+* [Eric Helgeson](https://erichelgeson.github.io/)
 
 Groovy:
 * [Main Site](http://groovy-lang.org)
 * [Docs](http://groovy-lang.org/documentation.html)
-* [Language Doc](http://groovy-lang.org/single-page-documentation.html)
+* [Docs single page](http://groovy-lang.org/single-page-documentation.html)
 * [API](http://groovy-lang.org/api.html)
 * [GDK](http://groovy-lang.org/gdk.html) Groovied version of the JDK
 * [GPars](http://www.gpars.org/) Concurrency Library for Groovy
@@ -56,6 +59,8 @@ Grails:
 * [Plugins](http://plugins.grails.org/)
 * [GitHub Issues](https://github.com/grails/grails-core/issues)
 * [Books](https://grails.org/learn.html)
+* [Grails 3 - Step By Step book](https://leanpub.com/grails3boo)
+* [Practical Grails 3 book](https://www.grails3book.com/)
 
 Other Groovy Projects:
 * [Gradle](http://gradle.org/) Gradle is build automation framework
