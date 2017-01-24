@@ -18,6 +18,7 @@ Various Groovy/Grails conferences:
 
 Other Videos:
 * [Groovy Podcast YouTube](https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ)
+* [OCI videos and Grails Quick Casts](https://www.youtube.com/channel/UCSeCbjNDlfdUyKOPWrmfR9A)
 * [Boston Groovy Grails & Sprin(B2GS) Meetup YouTube](https://www.youtube.com/channel/UC5M3WWSZ5LsIBc96G-6iNow)
 * [S.E. GEEK Groovy/Grails Videos](https://www.youtube.com/channel/UCHRADKRXZkPB6QVee0Q3GSQ)
 
