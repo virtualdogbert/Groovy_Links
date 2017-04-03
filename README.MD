@@ -62,6 +62,7 @@ Grails:
 * [Books](https://grails.org/learn.html)
 * [Grails 3 - Step By Step book](https://leanpub.com/grails3boo)
 * [Practical Grails 3 book](https://www.grails3book.com/)
+* [Compare fresh Grails app across versions](https://github.com/erichelgeson/grails-versions)
 
 Other Groovy Projects:
 * [Gradle](http://gradle.org/) Gradle is build automation framework
