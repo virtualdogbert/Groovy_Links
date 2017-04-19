@@ -10,10 +10,14 @@ Various Groovy/Grails conferences:
 * [Spring One 2GX 2015](http://www.infoq.com/springone-2gx-2015/)
 * [Spring One 2GX 2014](http://www.infoq.com/springone-2gx-2014/)
 * [Spring One 2GX 2013](http://www.infoq.com/springone-2gx-2013/)
-* [GR8 Conf EU](https://www.youtube.com/channel/UCJXNOMywewNmau4hzAy4LjA)
-* [GR8 Conf US](https://www.youtube.com/channel/UC7wUp2KIa1hoMNn0r7JUVEg)
 * [Greach](https://www.youtube.com/channel/UCgW66PCJrada2o2_YcvFo-Q)
-* [Grails Conf India](https://www.youtube.com/playlist?list=PLy9XpRZ-oJHQNd5S-FrASOiMmW5YiJmXM) I would keep an eye on To The new Channel as it might post vids from GR8 Conf IN.
+* [GR8Conf EU](http://gr8conf.eu)
+* [GR8Conf EU YouTube](https://www.youtube.com/channel/UCJXNOMywewNmau4hzAy4LjA)
+* [GR8Conf US](http://gr8conf.us)
+* [GR8Conf US YouTube](https://www.youtube.com/channel/UC7wUp2KIa1hoMNn0r7JUVEg)
+* [GR8Conf India](http://gr8conf.in)
+* [Grails Conf India](https://www.youtube.com/playlist?list=PLy9XpRZ-oJHQNd5S-FrASOiMmW5YiJmXM) I would keep an eye on To The new Channel as it might post vids from GR8Conf IN.
+* [G3Summit](http://g3summit.com)
 * [Transforming To Groovy by Venkat]( http://www.infoq.com/presentations/Transforming-to-Groovy)
 
 Other Videos:
@@ -30,6 +34,11 @@ News/Blogs:
 * [Grails.IO (Graeme Rocher)](http://grails.io/)
 * [Grails Team Blog(OCI)](http://grailsblog.objectcomputing.com/)
 * [Eric Helgeson](https://erichelgeson.github.io/)
+
+Forums:
+* [Groovy/Grails Facebook Group](https://www.facebook.com/groups/grails/)
+* [LinkedIn Groovy Group](https://www.linkedin.com/groups/76751)
+* [LinkedIn Grails Group](https://www.linkedin.com/groups/39757)
 
 Groovy:
 * [Main Site](http://groovy-lang.org)
