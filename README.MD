@@ -69,7 +69,7 @@ Grails:
 * [Plugins](http://plugins.grails.org/)
 * [GitHub Issues](https://github.com/grails/grails-core/issues)
 * [Books](https://grails.org/learn.html)
-* [Grails 3 - Step By Step book](https://leanpub.com/grails3boo)
+* [Grails 3 - Step By Step book](https://leanpub.com/grails3book)
 * [Practical Grails 3 book](https://www.grails3book.com/)
 * [Compare fresh Grails app across versions](https://github.com/erichelgeson/grails-versions)
 
