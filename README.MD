@@ -81,7 +81,13 @@ Other Groovy Projects:
 * [RatPack](http://www.ratpack.io/) Ratpack is a simple, capable, toolkit for creating high performance web applications.
 * [Spock](http://spockframework.org/) Spock is a testing and specification framework
 
-
-
+Twitter(just a start there are many more):
+* [ApacheGroovy](https://twitter.com/ApacheGroovy)
+* [Paul King](https://twitter.com/paulk_asert)
+* [Guillaume Laforge](https://twitter.com/glaforge)
+* [Grails Framework](https://twitter.com/grailsframework)
+* [Graeme Rocher](https://twitter.com/graemerocher)
+* [Jeff Scott Brown](https://twitter.com/jeffscottbrown)
+* [Groovy Podcast](https://twitter.com/groovypodcast)
 
 
