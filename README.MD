@@ -49,6 +49,7 @@ Groovy:
 * [GPars](http://www.gpars.org/) Concurrency Library for Groovy
 * [Web Console](http://groovyconsole.appspot.com/scripts)
 * [Books](http://groovy-lang.org/learn.html)
+* [PLEAC-Groovy(Groovy examples)](http://pleac.sourceforge.net/pleac_groovy/)
 
 AST:
 * [AST Workshop](http://melix.github.io/ast-workshop/#_prerequisites)
