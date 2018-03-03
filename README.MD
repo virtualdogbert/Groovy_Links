@@ -50,6 +50,7 @@ Groovy:
 * [Web Console](http://groovyconsole.appspot.com/scripts)
 * [Books](http://groovy-lang.org/learn.html)
 * [PLEAC-Groovy(Groovy examples)](http://pleac.sourceforge.net/pleac_groovy/)
+* [Rosetta Code/Groovy](http://www.rosettacode.org/wiki/Category:Groovy)
 
 AST:
 * [AST Workshop](http://melix.github.io/ast-workshop/#_prerequisites)
@@ -74,6 +75,7 @@ Grails:
 * [Practical Grails 3 book](https://www.grails3book.com/)
 * [Compare fresh Grails app across versions](https://github.com/erichelgeson/grails-versions)
 * [Grails Architecture Diagrams](https://github.com/virtualdogbert/Grails_Architecture)
+* [Grails Blog](http://grailsblog.objectcomputing.com/)
 
 Other Groovy Projects:
 * [Gradle](http://gradle.org/) Gradle is build automation framework
