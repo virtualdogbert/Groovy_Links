@@ -42,8 +42,10 @@ Forums:
 
 Groovy:
 * [Main Site](http://groovy-lang.org)
+* [Application Forge(create a grails app without installing anything)](https://start.grails.org/)
 * [Docs](http://groovy-lang.org/documentation.html)
 * [Docs single page](http://groovy-lang.org/single-page-documentation.html)
+* [GORM](http://gorm.grails.org/)
 * [API](http://groovy-lang.org/api.html)
 * [GDK](http://groovy-lang.org/gdk.html) Groovied version of the JDK
 * [GPars](http://www.gpars.org/) Concurrency Library for Groovy
