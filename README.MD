@@ -6,6 +6,8 @@ Slack Forums:
 
 [SDK MAN](http://sdkman.io/) For installing all things Groovy.
 
+[Awsome Grooovy](https://github.com/kdabir/awesome-groovy) Another Awsome list like this.
+
 Various Groovy/Grails conferences:
 * [Spring One 2GX 2015](http://www.infoq.com/springone-2gx-2015/)
 * [Spring One 2GX 2014](http://www.infoq.com/springone-2gx-2014/)
@@ -70,7 +72,9 @@ Grails:
 * [Guids](http://guides.grails.org/#/index)
 * [Docs](http://docs.grails.org/latest/guide/single.html)
 * [GORM](http://gorm.grails.org/)
+* [Upgrade GORM](http://gorm.grails.org/latest/hibernate/manual/index.html#upgradeNotes)
 * [Plugins](http://plugins.grails.org/)
+* [Upgrade Grails](https://grails.github.io/grails-upgrade/latest/guide/index.html)
 * [GitHub Issues](https://github.com/grails/grails-core/issues)
 * [Books](https://grails.org/learn.html)
 * [Grails 3 - Step By Step book](https://leanpub.com/grails3book)
