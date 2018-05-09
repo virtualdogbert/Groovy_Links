@@ -8,6 +8,8 @@ Slack Forums:
 
 [Awsome Grooovy](https://github.com/kdabir/awesome-groovy) Another Awsome list like this.
 
+[Groovy/Grails t-shirts](https://www.customizedgirl.com/s/groovygrailsshwag)
+
 Various Groovy/Grails conferences:
 * [Spring One 2GX 2015](http://www.infoq.com/springone-2gx-2015/)
 * [Spring One 2GX 2014](http://www.infoq.com/springone-2gx-2014/)
