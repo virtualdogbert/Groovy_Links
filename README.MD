@@ -86,9 +86,13 @@ Grails:
 * [Grails Architecture Diagrams](https://github.com/virtualdogbert/Grails_Architecture)
 * [Grails Blog](http://grailsblog.objectcomputing.com/)
 
+Gradle:
+* [Main Site](http://gradle.org/)
+* [Documentation](https://docs.gradle.org/current/userguide/userguide.html)
+* [Gradle Forums](https://discuss.gradle.org/)
+
 Other Groovy Projects:
 * [Micronaut](http://micronaut.io/) A new micro service frame work from the makers of Grails. Still pre beta.
-* [Gradle](http://gradle.org/) Gradle is build automation framework
 * [GEB](http://www.gebish.org/) powerful browser functional testing framework
 * [RatPack](http://www.ratpack.io/) Ratpack is a simple, capable, toolkit for creating high performance web applications.
 * [Spock](http://spockframework.org/) Spock is a testing and specification framework
