@@ -6,7 +6,9 @@ Slack Forums:
 
 [SDK MAN](http://sdkman.io/) For installing all things Groovy.
 
+Other Lists
 [Awsome Grooovy](https://github.com/kdabir/awesome-groovy) Another Awsome list like this.
+[code-maven.com/groovy](https://code-maven.com/groovy)
 
 [Groovy/Grails t-shirts](https://www.customizedgirl.com/s/groovygrailsshwag)
 
@@ -32,6 +34,8 @@ Other Videos:
 * [S.E. GEEK Groovy/Grails Videos](https://www.youtube.com/channel/UCHRADKRXZkPB6QVee0Q3GSQ)
 
 News/Blogs:
+* [dev.to Groovy](https://dev.to/t/groovy)
+* [dev.to Grails](https://dev.to/t/grails)
 * [Grails Diary](http://grydeske.net/news/)
 * [Mr Haki Blog](http://mrhaki.blogspot.com/)
 * [Groovy Calamari](http://groovycalamari.com/)
