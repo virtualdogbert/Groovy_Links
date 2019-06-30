@@ -68,17 +68,11 @@ Groovy:
 * [PLEAC-Groovy(Groovy examples)](http://pleac.sourceforge.net/pleac_groovy/)
 * [Rosetta Code/Groovy](http://www.rosettacode.org/wiki/Category:Groovy)
 
-AST:
-* [AST Workshop](http://melix.github.io/ast-workshop/#_prerequisites)
-* [AbstractASTTransformUtil](http://docs.groovy-lang.org/latest/html/gapi/org/codehaus/groovy/transform/AbstractASTTransformUtil.html)
-* [GrailsASTUtils](http://docs.grails.org/2.4.4/api/org/codehaus/groovy/grails/compiler/injection/GrailsASTUtils.html)
-* [Grails Redis Plugin Memoization Annotation Transformation a Retrospective on Groovy AST](http://www.christianoestreich.com/2012/02/groovy-ast-transformations-part-1/)
-* [Groovy AST: Writing an annotation](http://www.sdidit.nl/2013/01/groovy-ast-writing-annotation.html)
-
-GDSL:
-* [GDSL Awesomeness – Introduction to GDSL in IntelliJ Idea](http://www.tothenew.com/blog/gdsl-awesomeness-introduction-to-gdsl-in-intellij-idea/)
-* [GroovyDSL scripting framework](https://confluence.jetbrains.com/display/GRVY/Scripting+IDE+for+DSL+awareness)
-* [Can I use GDSL with Groovy AST transforms, that have closures as parameters?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/203366410-Can-I-use-GDSL-with-Groovy-AST-transforms-that-have-closures-as-parameters-)
+Micronaut:
+* [Main site](http://micronaut.io/) Micro service framework from the makers of Grails. Fast startup and low memory footprint.
+* [Docs](https://micronaut.io/documentation.html)
+* [Guides](https://guides.micronaut.io/index.html)
+* [Gitter](https://gitter.im/micronautfw/)
 
 Grails:
 * [Main Site](http://grails.org)
@@ -102,8 +96,20 @@ Gradle:
 * [Documentation](https://docs.gradle.org/current/userguide/userguide.html)
 * [Gradle Forums](https://discuss.gradle.org/)
 
+AST:
+* [AST Workshop](http://melix.github.io/ast-workshop/#_prerequisites)
+* [AbstractASTTransformUtil](http://docs.groovy-lang.org/latest/html/gapi/org/codehaus/groovy/transform/AbstractASTTransformUtil.html)
+* [GrailsASTUtils](http://docs.grails.org/2.4.4/api/org/codehaus/groovy/grails/compiler/injection/GrailsASTUtils.html)
+* [Grails Redis Plugin Memoization Annotation Transformation a Retrospective on Groovy AST](http://www.christianoestreich.com/2012/02/groovy-ast-transformations-part-1/)
+* [Groovy AST: Writing an annotation](http://www.sdidit.nl/2013/01/groovy-ast-writing-annotation.html)
+
+GDSL:
+* [GDSL Awesomeness – Introduction to GDSL in IntelliJ Idea](http://www.tothenew.com/blog/gdsl-awesomeness-introduction-to-gdsl-in-intellij-idea/)
+* [GroovyDSL scripting framework](https://confluence.jetbrains.com/display/GRVY/Scripting+IDE+for+DSL+awareness)
+* [Can I use GDSL with Groovy AST transforms, that have closures as parameters?](https://intellij-support.jetbrains.com/hc/en-us/community/posts/203366410-Can-I-use-GDSL-with-Groovy-AST-transforms-that-have-closures-as-parameters-)
+
+
 Other Groovy Projects:
-* [Micronaut](http://micronaut.io/) A new micro service frame work from the makers of Grails. Still pre beta.
 * [GEB](http://www.gebish.org/) powerful browser functional testing framework
 * [RatPack](http://www.ratpack.io/) Ratpack is a simple, capable, toolkit for creating high performance web applications.
 * [Spock](http://spockframework.org/) Spock is a testing and specification framework
