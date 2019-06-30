@@ -4,13 +4,20 @@ Slack Forums:
 * [Groovy Signup](https://groovycommunity.com/)
 * [Groovy](https://groovy-community.slack.com/)
 
-[SDK MAN](http://sdkman.io/) For installing all things Groovy.
+Install manager for all things Groovy and other SDKs:
+* [SDK MAN](http://sdkman.io/)
 
 Other Lists
-[Awsome Grooovy](https://github.com/kdabir/awesome-groovy) Another Awsome list like this.
-[code-maven.com/groovy](https://code-maven.com/groovy)
+* [Awsome Grooovy](https://github.com/kdabir/awesome-groovy)
+* [code-maven.com groovy](https://code-maven.com/groovy)
 
-[Groovy/Grails t-shirts](https://www.customizedgirl.com/s/groovygrailsshwag)
+[Open Collective donating to the community](https://opencollective.com/friends-of-groovy)
+
+Swag:
+* [Official Swag](https://www.redbubble.com/people/comdev/works/34187235-apache-groovy)
+* [Stickers](https://www.redbubble.com/shop/grails+groovy?iaCode=all-stickers&ref=search_box&sortOrder=relevant)
+* [Groovy/Grails t-shirts](https://www.redbubble.com/shop/groovy+grails?iaCode=u-tees&ref=search_box&sortOrder=relevant)
+* [Groovy/Grails t-shirts](https://www.customizedgirl.com/s/groovygrailsshwag)
 
 Various Groovy/Grails conferences:
 * [Spring One 2GX 2015](http://www.infoq.com/springone-2gx-2015/)
@@ -22,9 +29,9 @@ Various Groovy/Grails conferences:
 * [GR8Conf US](http://gr8conf.us)
 * [GR8Conf US YouTube](https://www.youtube.com/channel/UC7wUp2KIa1hoMNn0r7JUVEg)
 * [GR8Conf India](http://gr8conf.in)
-* [Grails Conf India](https://www.youtube.com/playlist?list=PLy9XpRZ-oJHQNd5S-FrASOiMmW5YiJmXM) I would keep an eye on To The new Channel as it might post vids from GR8Conf IN.
+* [Grails Conf India](https://www.youtube.com/playlist?list=PLy9XpRZ-oJHQNd5S-FrASOiMmW5YiJmXM)
 * [G3Summit](http://g3summit.com)
-* [Transforming To Groovy by Venkat]( http://www.infoq.com/presentations/Transforming-to-Groovy)
+* [Transforming To Groovy by Venkat](http://www.infoq.com/presentations/Transforming-to-Groovy) requires flash but is really good.
 
 Other Videos:
 * [Groovy Podcast YouTube](https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ)
