@@ -17,7 +17,7 @@ Swag:
 * [Official Swag](https://www.redbubble.com/people/comdev/works/34187235-apache-groovy)
 * [Stickers](https://www.redbubble.com/shop/grails+groovy?iaCode=all-stickers&ref=search_box&sortOrder=relevant)
 * [Groovy/Grails t-shirts](https://www.redbubble.com/shop/groovy+grails?iaCode=u-tees&ref=search_box&sortOrder=relevant)
-* [Groovy/Grails t-shirts](https://www.customizedgirl.com/s/groovygrailsshwag)
+* [Unofficial Groovy/Grails t-shirts](https://www.customizedgirl.com/s/groovygrailsshwag) A bit pricey, and they don't have the tie dye anymore. If I make any money off of these, I'll donnate it to the Open Collective to Groovy. Although considering the price, I'm not expecting much...
 
 Various Groovy/Grails conferences:
 * [Spring One 2GX 2015](http://www.infoq.com/springone-2gx-2015/)
