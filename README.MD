@@ -9,6 +9,7 @@ Install manager for all things Groovy and other SDKs:
 
 Other Lists
 * [Awsome Grooovy](https://github.com/kdabir/awesome-groovy)
+* [Awesome Micronaut](https://github.com/JonasHavers/awesome-micronaut/blob/master/README.md)
 * [code-maven.com groovy](https://code-maven.com/groovy)
 
 [Open Collective donating to the community](https://opencollective.com/friends-of-groovy)
