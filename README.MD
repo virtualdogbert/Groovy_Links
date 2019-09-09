@@ -74,6 +74,7 @@ Micronaut:
 * [Docs](https://micronaut.io/documentation.html)
 * [Guides](https://guides.micronaut.io/index.html)
 * [Gitter](https://gitter.im/micronautfw/)
+* [Micronaut Data](https://micronaut-projects.github.io/micronaut-data/latest/guide/)
 
 Grails:
 * [Main Site](http://grails.org)
