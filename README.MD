@@ -81,6 +81,7 @@ Grails:
 * [Guids](http://guides.grails.org/#/index)
 * [Docs](http://docs.grails.org/latest/guide/single.html)
 * [GORM](http://gorm.grails.org/)
+* [Grails 4 Upgrade Notes](https://dev.to/erichelgeson/grails-4-upgrade-notes-3cja)
 * [Upgrade GORM](http://gorm.grails.org/latest/hibernate/manual/index.html#upgradeNotes)
 * [Plugins](http://plugins.grails.org/)
 * [Upgrade Grails](https://grails.github.io/grails-upgrade/latest/guide/index.html)
