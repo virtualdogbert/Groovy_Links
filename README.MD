@@ -21,6 +21,7 @@ Swag:
 * [Unofficial Groovy/Grails t-shirts](https://www.customizedgirl.com/s/groovygrailsshwag) A bit pricey, and they don't have the tie dye anymore. If I make any money off of these, I'll donnate it to the Open Collective to Groovy. Although considering the price, I'm not expecting much...
 
 Various Groovy/Grails conferences:
+* [Design Patterns in Groovy by Venkat](https://www.infoq.com/presentations/groovy-design-patterns/) good for getting started with Groovy
 * [Spring One 2GX 2015](http://www.infoq.com/springone-2gx-2015/)
 * [Spring One 2GX 2014](http://www.infoq.com/springone-2gx-2014/)
 * [Spring One 2GX 2013](http://www.infoq.com/springone-2gx-2013/)
@@ -32,7 +33,7 @@ Various Groovy/Grails conferences:
 * [GR8Conf India](http://gr8conf.in)
 * [Grails Conf India](https://www.youtube.com/playlist?list=PLy9XpRZ-oJHQNd5S-FrASOiMmW5YiJmXM)
 * [G3Summit](http://g3summit.com)
-* [Transforming To Groovy by Venkat](http://www.infoq.com/presentations/Transforming-to-Groovy) requires flash but is really good.
+
 
 Other Videos:
 * [Groovy Podcast YouTube](https://www.youtube.com/channel/UCtZDhqr4t18CI89bnMMyXOQ)
