@@ -1,5 +1,6 @@
 Slack Forums:
-* [Grails and Grails Signup(now the same page)](https://grails.slack.com)
+* [Grails signup](https://slack.grails.org/)
+* [Grails](https://grails.slack.com)
 * [Groovy Signup](https://groovycommunity.com/)
 * [Groovy](https://groovy-community.slack.com/)
 
